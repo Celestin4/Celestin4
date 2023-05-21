@@ -1,3 +1,4 @@
+// heading 
 <h1 align="center">Hi 👋, I'm NTEZIRYAYO Celestin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -5,6 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/nteziryayocele1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nteziryayocele1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nteziryayo-celestin-49661b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nteziryayo-celestin-49661b1b8/" height="30" width="40" /></a>
