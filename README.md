@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celestin4&label=Profile%20views&color=0e75b6&style=flat" alt="celestin4" /> </p>
   
 <!-- Media. -->
-<p> <iframe src="https://www.example.com" width="600" height="400"></iframe></p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left" background-color="grey">
